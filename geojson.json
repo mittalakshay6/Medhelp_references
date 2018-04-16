@@ -1,0 +1,93 @@
+ {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [25.4461738,81.8442664]
+  }, 
+
+  "properties": 
+{
+    " hospital name": " SWAROOPRANI NEHRU CHIKITSALAY" 
+                      
+    "address":" NEAR HANUMAN MANDIR,NORTH MALAKA
+                         ALLAHABAD-211001"
+},
+
+"geometry": {
+    "type": "Point",
+    "coordinates": [ 25.4712919,81.8464863]
+  }, 
+
+"properties":
+{
+    "hospital name": " BELI HOSPITAL "
+     
+    "address":"BELI ROAD, ALLAHABAD-211002"
+},
+
+"geometry": {
+    "type": "Point",
+    "coordinates": [ 25.4564164,81.8466271]
+  }, 
+"properties":
+   {
+   "hospital name":"NAZRATH HOSPITAL"
+   "address": "13-A, K N ROAD, ALLAHABAD-211001."
+  },
+
+"geometry": {
+    "type": "Point",
+    "coordinates": [ 25.458595,81.8619696]
+  }, 
+"properties":
+  { 
+   "hospital name": "KAMLA NEHRU HOSPITAL ,
+
+    "address" : " TAGORE TOWN, ALLAHABAD-211002."
+  },
+"geometry": {
+    "type": "Point",
+    "coordinates": [ 25.4362089,81.846549]
+  }, 
+"properties":
+{    
+  "hospital name":"JEEVAN JYOTI HOSPITAL"
+"address":"162, BAI KA BAGH, LOWTHER ROAD,
+  ALLAHABAD-211003,
+  PH-0532-2414748, 2417252."
+},
+"geometry": {
+    "type": "Point",
+    "coordinates": [ 25.4578715,81.8711465]
+  }, 
+"properties":
+{
+  "hospital name":"SAKET MATERNITY & NURSING HOME PVT. LTD.(Saket Hospital)"
+  "address":"1203, BHS, KIDWAI NAGAR,ALLAHPUR,
+ALLAHABAD-211006,
+PH-0532-2505252, 2500425."
+},
+
+"geometry": {
+    "type": "Point",
+    "coordinates": [25.4524515,81.8421096]
+  }, 
+"properties":
+{
+  "hospital name":"VATSALYA MATERNITY & SURGICAL CENTRE"
+  "address":"6/8, ELGIN ROAD, CIVIL LINES,
+ALLAHABAD-211001,
+PH-0532-2407500, 2407540."
+},
+"geometry": {
+    "type": "Point",
+    "coordinates": [ 25.4602999,81.8655802]
+  }, 
+"properties":
+{
+"hospital name":"YASHLOK HOSPITAL & RESEARCH CENTRE"
+"address":"43A/31A, HASHIMPUR ROAD,
+ALLAHABAD-211002,
+PH-0532-2467258, 2465655."
+  },
+}
